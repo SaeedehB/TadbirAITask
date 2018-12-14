@@ -1,4 +1,4 @@
-'''auther : Saeedeh Bahrami'''
+'''author : Saeedeh Bahrami'''
 '''I set the pathes of csv_file and csv_file2 files
    based on my system path to read the Data files,
    For running the code on your system,
